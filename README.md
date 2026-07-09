@@ -27,8 +27,8 @@ This repository serves as the **landing page** for the RedGo AI project. The act
 
 | Repository | Description |
 |---|---|
-| 🔧 [`REDGO-BACKEND`](https://github.com/Arief1222/REDGO-BACKEND/) | Go REST API, AI orchestration, RAG pipeline, authentication, payments |
-| 🎨 [`REDGO-FRONTEND`](https://github.com/Arief1222/REDGO-FRONTEND/) | React + TypeScript client — diagnosis flow, AI chat, admin tools |
+|  [`REDGO-BACKEND`](https://github.com/Arief1222/REDGO-BACKEND/) | Go REST API, AI orchestration, RAG pipeline, authentication, payments |
+|  [`REDGO-FRONTEND`](https://github.com/Arief1222/REDGO-FRONTEND/) | React + TypeScript client — diagnosis flow, AI chat, admin tools |
 
 ---
 
