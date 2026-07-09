@@ -15,7 +15,7 @@ Translating an experienced business consultant's decision-making framework into 
 
 ## About RedGo AI
 
-RedGo AI helps founders and SMEs receive structured business guidance through an AI-powered consultation experience.
+RedGo AI helps founders and MSMEs receive structured business guidance through an AI-powered consultation experience.
 
 Rather than answering questions directly like a generic chatbot, RedGo first guides users through a **structured business diagnosis** to uncover the real constraint behind their problem — then generates recommendations grounded in an expert-designed decision framework using **Retrieval-Augmented Generation (RAG)**.
 
