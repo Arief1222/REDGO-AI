@@ -5,15 +5,13 @@
 **AI-Powered Business Consultation Platform**
 Translating an experienced business consultant's decision-making framework into an AI-assisted consultation workflow.
 
-![Status](https://img.shields.io/badge/status-Prototype-orange)
+![Status](https://img.shields.io/badge/status-OnHold-orange)
 ![Architecture](https://img.shields.io/badge/architecture-RAG-blue)
 ![License](https://img.shields.io/badge/license-Private-lightgrey)
 
 </div>
 
 ---
-
-## About RedGo AI
 
 ## About RedGo AI
 
