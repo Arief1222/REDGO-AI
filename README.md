@@ -15,11 +15,21 @@ Translating an experienced business consultant's decision-making framework into 
 
 ## About RedGo AI
 
-RedGo AI helps founders and MSMEs receive structured business guidance through an AI-powered consultation experience.
+## About RedGo AI
 
-Rather than answering questions directly like a generic chatbot, RedGo first guides users through a **structured business diagnosis** to uncover the real constraint behind their problem — then generates recommendations grounded in an expert-designed decision framework using **Retrieval-Augmented Generation (RAG)**.
+RedGo AI is an AI-powered business consultation platform designed to help founders and small-to-medium enterprises (SMEs) identify business challenges and develop structured strategic recommendations.
 
-This repository serves as the **landing page** for the RedGo AI project. The actual source code is split across two separate repositories — see the links below.
+Unlike a conventional chatbot that primarily responds to user questions, RedGo AI follows a structured consultation workflow based on an experienced business consultant's decision-making framework.
+
+The platform consists of several consultation stages:
+
+- **PROBE MODE** — Guides users through a structured business diagnosis to identify underlying problems and business constraints.
+- **THRIVE MODE** — Helps develop strategic recommendations based on the identified business problems and an expert-designed business framework.
+- **READY MODE** — Supports ongoing business discussions and decision-making.
+
+RedGo AI uses **Retrieval-Augmented Generation (RAG)** to retrieve relevant knowledge from its business framework and provide context-grounded AI responses.
+
+This repository serves as the landing page for the RedGo AI project. The application source code is maintained in two separate repositories, linked below.
 
 ---
 
